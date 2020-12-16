@@ -1,5 +1,5 @@
 # Dynamic Head
-By Lin Song, Yanwei Li, Zhengkai Jiang, Zeming Li, Hongbin Sun, Jian Sun, Nanning Zheng.
+By [Lin Song](https://linsong.me), Yanwei Li, Zhengkai Jiang, Zeming Li, Hongbin Sun, Jian Sun, Nanning Zheng.
 
 This repo is an official implementation for "[Fine-Grained Dynamic Head for Object Detection](https://proceedings.neurips.cc/paper/2020/file/7f6caf1f0ba788cd7953d817724c2b6e-Paper.pdf)" (NeurIPS2020) on PyTorch framework. 
 
